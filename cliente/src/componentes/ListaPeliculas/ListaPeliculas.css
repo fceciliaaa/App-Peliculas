@@ -1,0 +1,17 @@
+.tabla-peliculas {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  text-align: left;
+}
+
+.tabla-peliculas th, .tabla-peliculas td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.tabla-peliculas th {
+  background-color: #C4CAD0;
+  color: #040F0F;
+}
